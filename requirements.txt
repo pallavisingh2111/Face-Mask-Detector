@@ -1,0 +1,10 @@
+tensorflow>=1.15.2
+keras==2.8.0
+imutils==0.5.4
+pandas
+numpy==1.21.5
+opencv-python==4.5.5.62
+matplotlib==3.5.1
+scipy==1.7.3
+sklearn
+gTTS==2.2.4
