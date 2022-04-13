@@ -26,7 +26,7 @@ INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
 
-DIRECTORY = r"D:\Users\aryan\PycharmProjects\pythonProject\Face-Mask-Detection-master\dataset"
+DIRECTORY = r"D:\Final-year-project\venv\Face-Mask-Detector\dataset"
 CATEGORIES = ["with_mask", "without_mask"]
 
 # grab the list of images in our dataset directory, then initialize
